@@ -1,0 +1,111 @@
+.a{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    left: 3vw;
+    background: #DD9B79;
+}
+.a:hover {
+    
+   
+    background: #D9D9D9;
+   }
+.b{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    left: 16vw;
+    background: #DD9B79;
+}
+.b:hover {
+    
+   
+    background: #D9D9D9;
+   }
+.c{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    left: 29vw;
+    background: #DD9B79;
+}
+.c:hover {
+    
+   
+    background: #D9D9D9;
+   }
+.d{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    left: 41vw;
+    background: #DD9B79;
+}
+.d:hover {
+    
+   
+    background: #D9D9D9;
+   }
+.f{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    left: 54vw;
+    background: #DD9B79;
+}
+.f:hover {
+    
+   
+    background: #D9D9D9;
+   }
+.g{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    left: 67vw;
+    background: #DD9B79;
+}
+.g:hover {
+    
+   
+    background: #D9D9D9;
+   }
+.i{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    left: 80vw;
+    background: #DD9B79;
+}
+.i:hover {
+    
+   
+    background: #D9D9D9;
+   }
+.po{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+   
+    background: #DD9B79;
+}
+.po:hover{
+    background: #D9D9D9;
+
+}
+.t{
+    position: absolute;
+    width: 10vw;
+    height: 16vh;
+    left: 13vw;
+    background: #e2d2ca; 
+}
+.sr{
+    position: absolute;
+    width: 10vw;
+    height: 7vh;
+    top: 9vh;
+    text-align: center;
+    
+    background: #e2d2ca; 
+}
